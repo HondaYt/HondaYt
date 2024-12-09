@@ -1,34 +1,36 @@
-<h1 align="center">こんにちは！ 👋 HondaYtです</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HondaYt&color=brightgreen" alt="Profile views"/>
-</p>
-
 <div align="center">
   
-[![HondaYt's GitHub stats](https://github-readme-stats.vercel.app/api?username=HondaYt&theme=tokyonight&show_icons=true&hide_border=true&height=170)](https://github.com/HondaYt/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HondaYt&theme=tokyonight&show_icons=true&layout=compact&hide_border=true&height=170)](https://github.com/HondaYt/github-readme-stats)
+# 🎮 Welcome to HondaYt's Profile 🎮
 
-</div>
-
-### 🛠️ 技術スタック
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <!-- 使用している技術のアイコンを追加 -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=HondaYt&color=blueviolet&style=flat-square" alt="Profile views"/>
 </p>
 
-### 📫 連絡先
+## 📊 GitHub Stats
 
--   Twitter: [@your_twitter]()
--   Email: your.email@example.com
+<a href="https://github.com/HondaYt">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=HondaYt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HondaYt&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
 
-### 🌱 現在学習中
+## 🛠️ Technologies & Tools
 
--   技術 1
--   技術 2
--   技術 3
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
-<!--
-**HondaYt/HondaYt** is a ✨ _special_ ✨ repository
--->
+## 📫 Connect with Me
+
+<a href="https://github.com/HondaYt" target="_blank">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+---
+
+<p align="center">
+  <i>Thanks for visiting my profile! Have a great day! 😊</i>
+</p>
+
+</div>
