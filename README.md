@@ -6,8 +6,8 @@
 
 <div align="center">
   
-[![HondaYt's GitHub stats](https://github-readme-stats.vercel.app/api?username=HondaYt&theme=tokyonight&show_icons=true)](https://github.com/HondaYt/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HondaYt&theme=tokyonight&show_icons=true&layout=compact)](https://github.com/HondaYt/github-readme-stats)
+[![HondaYt's GitHub stats](https://github-readme-stats.vercel.app/api?username=HondaYt&theme=tokyonight&show_icons=true&hide_border=true&height=170)](https://github.com/HondaYt/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HondaYt&theme=tokyonight&show_icons=true&layout=compact&hide_border=true&height=170)](https://github.com/HondaYt/github-readme-stats)
 
 </div>
 
